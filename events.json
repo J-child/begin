@@ -1,0 +1,29 @@
+[
+  {
+    "owner": "freeCodeCamp",
+    "name": "freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "language": "JavaScript",
+    "stars": 353000,
+    "starred_at": "2026-10-10T14:30:00Z"
+  },
+  {
+    "owner": "denoland",
+    "name": "deno",
+    "description": "A modern runtime for JavaScript and TypeScript.",
+    "url": "https://github.com/denoland/deno",
+    "language": "Rust",
+    "stars": 120000,
+    "starred_at": "2026-09-05T09:15:00Z"
+  },
+  {
+    "owner": "torvalds",
+    "name": "linux",
+    "description": "Linux kernel source tree.",
+    "url": "https://github.com/torvalds/linux",
+    "language": "C",
+    "stars": 160000,
+    "starred_at": "2026-01-20T19:45:00Z"
+  }
+]
